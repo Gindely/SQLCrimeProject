@@ -54,6 +54,7 @@ Next, I further explored out of all crimes committed what counties had the highe
 ## Tableau Dashboard
 
 A link to the interactive dashboard is provided below along with a screenshot for a quick view.
-Violent & Property Crime Dashboard | Tableau Public
+
+[Violent & Property Crime Dashboard | Tableau Public](https://public.tableau.com/app/profile/gindely.duran/viz/ViolentPropertyCrimeDashboard/Dashboard1)
 
 ![Tableau](./img/Tableau.png)
