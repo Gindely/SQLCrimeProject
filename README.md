@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Introduction](#Intoduction)
 	- [Data Source](#Data-Source)
-	- [Variables](#Variables)
+	- [Columns](#Columns)
 * [Technologies](#Technologies)
 * [Analysis](#Analysis)
 	- [Total of Violent and Property Crime](#Total-of-Violent-and-Property-Crime) 
@@ -11,12 +11,12 @@
 * [Tableau Dashboard](#Tableau-Dashboard)
 
 ## Introduction
-An analysis of violent and property crime that occurred from 1990-2022 in the state of NY. Two datasets were included in the analysis. The first dataset includes all violent crime reported from 1990-2022 and the second dataset includes all property crime reported from 1990-2022.
+An analysis of violent and property crime that occurred from 1990-2022 in the state of New York. Two datasets were included in the analysis. The first dataset includes all violent crime reported from 1990-2022 and the second dataset includes all property crime reported from 1990-2022.
 ### Data Source
-Data for violent and property Crimes reported to the police from 1990-2022
-Index Crimes by County and Agency: Beginning 1990 | State of New York (ny.gov)
-### Variables
-There are a total of 22,044 observations in both datasets. 
+Data for violent and property crimes reported to the police from 1990-2022.
+[Index Crimes by County and Agency: Beginning 1990 | State of New York (ny.gov)](https://data.ny.gov/Public-Safety/Index-Crimes-by-County-and-Agency-Beginning-1990/ca8h-8gjq)
+### Columns
+There are a total of 22,044 observations in both datasets. The columns in the dataset include:
 County: Location where crime was reported
 Agency: Police Department that reported the crime
 Months Reported: Number of months an agency reported for the year
@@ -49,7 +49,7 @@ As expected, the New York City counties of Bronx, Kings, New York, and Queens le
 
 ![PercentMurderBurglary](./img/PercentMurderBurglary.png)
 
-Next, I further explored out of all crimes committed what counties had the highest percentage of murder and burglary in 2022. Sullivan County had the highest murder percentage while Oneida County had the highest Burglary percentage. Monroe County was in the top 3 counties for both percentages.
+I further explored, out of all crimes committed what counties had the highest percentage of murder and burglary in 2022. Sullivan County had the highest murder percentage while Oneida County had the highest burglary percentage. Monroe County was in the top 3 counties for both percentages.
 
 ## Tableau Dashboard
 
