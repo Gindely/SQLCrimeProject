@@ -4,11 +4,11 @@
 * [Introduction](#Intoduction)
 	- [Data Source](#Data-Source)
 	- [Variables](#Variables)
-* [Technologies](# Technologies)
+* [Technologies](#Technologies)
 * [Analysis](#Analysis)
 	- [Total of Violent and Property Crime](#Total-of-Violent-and-Property-Crime) 
 	- [Murder and Burglary Percentage](#Murder-and-Burglary-Percentage)
-* [Tableau Dashboard](# Tableau-Dashboard)
+* [Tableau Dashboard](#Tableau-Dashboard)
 
 ## Introduction
 An analysis of violent and property crime that occurred from 1990-2022 in the state of NY. Two datasets were included in the analysis. The first dataset includes all violent crime reported from 1990-2022 and the second dataset includes all property crime reported from 1990-2022.
